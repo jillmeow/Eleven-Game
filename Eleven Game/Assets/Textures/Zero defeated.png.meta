@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 30735bb68783d47ebbb4afba7a77b133
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Zero defeated_0
+    21300002: Zero defeated_1
+    21300004: Zero defeated_2
+    21300006: Zero defeated_3
+    21300008: Zero defeated_4
+    21300010: Zero defeated_5
+    21300012: Zero defeated_6
+    21300014: Zero defeated_7
+    21300016: Zero defeated_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Zero defeated_0
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1054
+        width: 319
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero defeated_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 532
+        width: 301
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero defeated_2
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 538
+        width: 349
+        height: 369
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero defeated_3
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 538
+        width: 328
+        height: 369
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero defeated_4
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 19
+        width: 314
+        height: 367
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero defeated_5
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 29
+        width: 331
+        height: 372
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero defeated_6
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 37
+        width: 317
+        height: 354
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero defeated_7
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1049
+        width: 325
+        height: 380
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero defeated_8
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1038
+        width: 322
+        height: 399
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 7cad3e579ef5b4b4fbd651921872834b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 9 disappearing_0
+    21300002: 9 disappearing_1
+    21300004: 9 disappearing_2
+    21300006: 9 disappearing_3
+    21300008: 9 disappearing_4
+    21300010: 9 disappearing_5
+    21300012: 9 disappearing_6
+    21300014: 9 disappearing_7
+    21300016: 9 disappearing_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 9 disappearing_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2441
+        width: 282
+        height: 243
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 9 disappearing_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2116
+        width: 281
+        height: 246
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 9 disappearing_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1789
+        width: 279
+        height: 251
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 9 disappearing_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1468
+        width: 279
+        height: 252
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 9 disappearing_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1148
+        width: 282
+        height: 246
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 9 disappearing_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 865
+        width: 282
+        height: 248
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 9 disappearing_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 585
+        width: 282
+        height: 241
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 9 disappearing_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 313
+        width: 277
+        height: 229
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 9 disappearing_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 282
+        height: 225
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 071343055eba34c00abf4841ffd4b605
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 1 captured at end of LV1_0
+    21300002: 1 captured at end of LV1_1
+    21300004: 1 captured at end of LV1_2
+    21300006: 1 captured at end of LV1_3
+    21300008: 1 captured at end of LV1_4
+    21300010: 1 captured at end of LV1_5
+    21300012: 1 captured at end of LV1_6
+    21300014: 1 captured at end of LV1_7
+    21300016: 1 captured at end of LV1_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 1 captured at end of LV1_0
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 873
+        width: 206
+        height: 306
+      alignment: 9
+      pivot: {x: .502207637, y: .460438639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 1 captured at end of LV1_1
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 842
+        width: 297
+        height: 348
+      alignment: 9
+      pivot: {x: .509608626, y: .393013775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 1 captured at end of LV1_2
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 859
+        width: 824
+        height: 319
+      alignment: 9
+      pivot: {x: .483355761, y: .438390642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 1 captured at end of LV1_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 464
+        width: 682
+        height: 307
+      alignment: 9
+      pivot: {x: .533663452, y: .444332153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 1 captured at end of LV1_4
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 460
+        width: 360
+        height: 309
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 1 captured at end of LV1_5
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 432
+        width: 495
+        height: 394
+      alignment: 9
+      pivot: {x: .528447568, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 1 captured at end of LV1_6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 10
+        width: 585
+        height: 399
+      alignment: 9
+      pivot: {x: .525675774, y: .422732621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 1 captured at end of LV1_7
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 35
+        width: 500
+        height: 323
+      alignment: 9
+      pivot: {x: .503755152, y: .433152616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 1 captured at end of LV1_8
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 26
+        width: 517
+        height: 327
+      alignment: 9
+      pivot: {x: .519973755, y: .428228676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

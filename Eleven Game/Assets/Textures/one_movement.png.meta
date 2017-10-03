@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: 6a5eec6d6c8e5453da5ac2233797e21d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: one_movement_0
+    21300002: one_movement_1
+    21300004: one_movement_2
+    21300006: one_movement_3
+    21300008: one_movement_4
+    21300010: one_movement_5
+    21300012: one_movement_6
+    21300014: one_movement_7
+    21300016: one_movement_8
+    21300018: one_movement_9
+    21300020: one_movement_10
+    21300022: one_movement_11
+    21300024: one_movement_12
+    21300026: one_movement_13
+    21300028: one_movement_14
+    21300030: one_movement_15
+    21300032: one_movement_16
+    21300034: one_movement_17
+    21300036: one_movement_18
+    21300038: one_movement_19
+    21300040: one_movement_20
+    21300042: one_movement_21
+    21300044: one_movement_22
+    21300046: one_movement_23
+    21300048: one_movement_24
+    21300050: one_movement_25
+    21300052: one_movement_26
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: one_movement_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2948
+        width: 160
+        height: 255
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: one_movement_1
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 2946
+        width: 152
+        height: 261
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: one_movement_2
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 2932
+        width: 154
+        height: 275
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: one_movement_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2630
+        width: 154
+        height: 257
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: one_movement_4
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 2628
+        width: 168
+        height: 259
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: one_movement_5
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 2634
+        width: 160
+        height: 268
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: one_movement_6
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2324
+        width: 156
+        height: 259
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: one_movement_7
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 2324
+        width: 162
+        height: 261
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: one_movement_8
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 2324
+        width: 162
+        height: 265
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: one_movement_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1996
+        width: 108
+        height: 253
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: one_movement_10
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1979
+        width: 140
+        height: 274
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: one_movement_11
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1977
+        width: 124
+        height: 298
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: one_movement_12
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1645
+        width: 160
+        height: 252
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: one_movement_13
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1692
+        width: 119
+        height: 237
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: one_movement_14
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1688
+        width: 104
+        height: 217
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: one_movement_15
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1370
+        width: 125
+        height: 233
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: one_movement_16
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1376
+        width: 146
+        height: 268
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: one_movement_17
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1239
+        width: 160
+        height: 306
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: one_movement_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 622
+        width: 190
+        height: 260
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: one_movement_19
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 305
+        width: 190
+        height: 260
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: one_movement_20
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 190
+        height: 260
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: one_movement_21
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 305
+        width: 200
+        height: 260
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: one_movement_22
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 305
+        width: 190
+        height: 260
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: one_movement_23
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 622
+        width: 190
+        height: 260
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: one_movement_24
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 622
+        width: 190
+        height: 265
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: one_movement_25
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 0
+        width: 190
+        height: 266
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: one_movement_26
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 8
+        width: 190
+        height: 260
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

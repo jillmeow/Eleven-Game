@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 9c2abb7b7aea34afa82850e5222d026c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 1 Ell & Eve together_0
+    21300002: 1 Ell & Eve together_1
+    21300004: 1 Ell & Eve together_2
+    21300006: 1 Ell & Eve together_3
+    21300008: 1 Ell & Eve together_4
+    21300010: 1 Ell & Eve together_5
+    21300012: 1 Ell & Eve together_6
+    21300014: 1 Ell & Eve together_7
+    21300016: 1 Ell & Eve together_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 1 Ell & Eve together_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1809
+        width: 1000
+        height: 900
+      alignment: 9
+      pivot: {x: .707217991, y: .49064073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 1 Ell & Eve together_1
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1809
+        width: 1000
+        height: 900
+      alignment: 9
+      pivot: {x: .717326164, y: .49064073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 1 Ell & Eve together_2
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1809
+        width: 1000
+        height: 900
+      alignment: 9
+      pivot: {x: .729119122, y: .488768727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 1 Ell & Eve together_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 898
+        width: 1000
+        height: 900
+      alignment: 9
+      pivot: {x: .697109818, y: .475665569}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 1 Ell & Eve together_4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 900
+        width: 1000
+        height: 900
+      alignment: 9
+      pivot: {x: .707217991, y: .464434266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 1 Ell & Eve together_5
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 898
+        width: 1000
+        height: 900
+      alignment: 9
+      pivot: {x: .700479269, y: .470049918}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 1 Ell & Eve together_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1000
+        height: 900
+      alignment: 9
+      pivot: {x: .698794484, y: .460690409}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 1 Ell & Eve together_7
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 2
+        width: 1000
+        height: 900
+      alignment: 9
+      pivot: {x: .707217991, y: .449459046}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 1 Ell & Eve together_8
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 1000
+        height: 900
+      alignment: 9
+      pivot: {x: .702163815, y: .456946641}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
